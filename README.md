@@ -1,0 +1,1 @@
+The Solidity program is a program that is used to showcase the basic structure of a contract,provides a solid foundation for a token with functionalities like minting and burning. The program demonstrates the use of require(), assert() and revert().
